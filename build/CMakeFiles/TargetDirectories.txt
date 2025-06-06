@@ -1,0 +1,4 @@
+E:/UVT FMI_year1/Programming Project/DentalClinicSystem/build/CMakeFiles/admin_app.dir
+E:/UVT FMI_year1/Programming Project/DentalClinicSystem/build/CMakeFiles/user_app.dir
+E:/UVT FMI_year1/Programming Project/DentalClinicSystem/build/CMakeFiles/edit_cache.dir
+E:/UVT FMI_year1/Programming Project/DentalClinicSystem/build/CMakeFiles/rebuild_cache.dir

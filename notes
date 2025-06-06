@@ -1,0 +1,4 @@
+cd build
+.\admin_app.exe comanda
+.\user_app.exe comanda
+ 
